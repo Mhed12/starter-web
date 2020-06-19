@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mohammed Dela Cruz      Mhed@gmail.com      @Mhed12
 
 # THANKS
 
